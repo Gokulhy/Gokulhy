@@ -2,8 +2,6 @@
 <h3 align="center">i am a web developer and an IT engineering student at Viswajyothi college of engineering</h3>
 
 - 📫 How to reach me **gokulr9605@gmail.com**
-
-<h3 align="left">Connect with me: https://www.instagram.com/primordial_bread/</h3>
 <p align="left">
 </p>
 
