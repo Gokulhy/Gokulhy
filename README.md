@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Gokul Rajesh</h1>
-<h3 align="center">i am a web developer and an IT engineering student at Viswajyothi college of engineering</h3>
+<h3 align="center">i am an IT engineering graduate at Viswajyothi college of engineering</h3>
 
 - 📫 How to reach me **gokulr9605@gmail.com**
 <p align="left">
