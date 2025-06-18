@@ -8,10 +8,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
       <p align="left">
         <a href="https://www.linkedin.com/in/gokulrajesh" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,7 +17,10 @@
           <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram" />
         </a>
       </p>
-    </td>
+
+---
+<table>
+  <tr>
     <td>
       <h3 align="left">📊 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight"/>
