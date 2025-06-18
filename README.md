@@ -22,7 +22,11 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight" alt="Top Langs" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulhy&show_icons=true&theme=tokyonight&hide=contribs,prs" alt="Gokul's GitHub Stats" height="170"/>
+</p>
 
 ---
 <h3 align="left">🛠️ Languages and Tools:</h3>
