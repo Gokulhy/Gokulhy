@@ -24,7 +24,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: stretch; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulhy&show_icons=true&theme=tokyonight&hide=contribs,prs" width="48%" style="min-height: 210px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulhy&show_icons=true&theme=tokyonight&hide=contribs,prs"/>
 </div>
 
 ---
