@@ -24,15 +24,11 @@
 
 <div style="display: flex; justify-content: space-between; align-items: stretch; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight"/>
+  ![](https://github-contributor-stats.vercel.app/api?username=gokulhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </div>
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=gokulhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
