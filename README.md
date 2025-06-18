@@ -8,15 +8,16 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/gokulrajesh" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://www.instagram.com/primordial_bread" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-      </p>
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokulrajesh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/primordial_bread" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(48%) sepia(89%) saturate(749%) hue-rotate(316deg) brightness(96%) contrast(92%);"/>
+  </a>
+</p>
+
 
 ---
 <table>
