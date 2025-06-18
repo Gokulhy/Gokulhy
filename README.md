@@ -27,6 +27,12 @@
 </div>
 
 ---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=gokulhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
