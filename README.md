@@ -23,13 +23,19 @@
   <tr>
     <td>
       <h3 align="left">📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight"/>
     </td>
     <td>
       <h3 align="left">🔝 Top Contributed Repo</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=gokulhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </td>
   </tr>
+<tr>
+      <td>
+             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight"/>
+      </td>
+      <td>
+            <img src="https://github-contributor-stats.vercel.app/api?username=gokulhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+      </td>
+</tr>
 </table>
 
 ---
