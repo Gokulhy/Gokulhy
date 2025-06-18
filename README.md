@@ -24,7 +24,6 @@
 
 <div style="display: flex; justify-content: space-between; align-items: stretch; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=gokulhy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
