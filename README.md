@@ -24,7 +24,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: stretch; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulhy&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulhy&show_icons=true&theme=tokyonight&hide=contribs,prs"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gokulhy&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+  </a>
 </div>
 
 ---
