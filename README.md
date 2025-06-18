@@ -27,7 +27,7 @@
     </td>
     <td>
       <h3 align="left">🔝 Top Contributed Repo</h3>
-      ![](https://github-contributor-stats.vercel.app/api?username=gokulhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+      <img src="https://github-contributor-stats.vercel.app/api?username=gokulhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </td>
   </tr>
 </table>
