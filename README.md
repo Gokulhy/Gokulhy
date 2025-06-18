@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gokul Rajesh 👋</h1>
-<h3 align="center">IT Engineering Graduate | Passionate about Web Development & AI</h3>
+<h3 align="center">IT Engineering Graduate | Passionate about Web Development</h3>
 
 ---
 
