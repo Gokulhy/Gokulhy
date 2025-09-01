@@ -4,7 +4,7 @@
 ---
 
 - 🎓 Graduate from **Viswajyothi College of Engineering and Technology**
-- 📫 Reach me at: **gokulr9605@gmail.com**
+- 📫 Reach me at: **gokulr2024@gmail.com**
 
 ---
 
