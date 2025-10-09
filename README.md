@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/gokulrajesh" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/primordial_bread" target="_blank">
+  <a href="https://www.instagram.com/_v_1___" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
