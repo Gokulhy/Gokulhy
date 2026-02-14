@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/beb9f78b-6056-44fc-9206-eae3eaf802dd" /><h1 align="center">Hi, I'm Gokul Rajesh 👋</h1>
+<h1 align="center">Hi, I'm Gokul Rajesh 👋</h1>
 <h3 align="center">IT Engineering Graduate | Tester-1 at UST Healthproof</h3>
 
 ---
