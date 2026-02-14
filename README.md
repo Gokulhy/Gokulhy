@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Gokul Rajesh 👋</h1>
-<h3 align="center">IT Engineering Graduate | Passionate about Web Development</h3>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/beb9f78b-6056-44fc-9206-eae3eaf802dd" /><h1 align="center">Hi, I'm Gokul Rajesh 👋</h1>
+<h3 align="center">IT Engineering Graduate | Tester-1 at UST Healthproof</h3>
 
 ---
 
+- 🏢 Tester-1 at UST Healthproof
 - 🎓 Graduate from **Viswajyothi College of Engineering and Technology**
 - 📫 Reach me at: **gokulrajesh2024@gmail.com**
 
