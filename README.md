@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Gokul Rajesh 👋</h1>
----
 
 - 📫 Reach me at: **gokulrajesh2024@gmail.com**
-
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
