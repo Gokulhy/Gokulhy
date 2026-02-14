@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Gokul Rajesh 👋</h1>
-<h3 align="center">IT Engineering Graduate</h3>
-
 ---
 
 - 📫 Reach me at: **gokulrajesh2024@gmail.com**
